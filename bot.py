@@ -2,7 +2,7 @@ import time, random, requests
 import undetected_chromedriver as uc
 from selenium.webdriver.common.by import By
 
-URL = "https://your-website.com"  # <- CHANGE THIS
+URL = "https://www.chachi.fun/"  # <- CHANGE THIS
 
 PROXY_LIST_URL = "https://www.proxy-list.download/api/v1/get?type=https"
 
