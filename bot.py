@@ -45,5 +45,5 @@ def run_bot():
         print("Error:", e)
 
 # Run 4 bots in parallel
-for _ in range(4):
+for _ in range(6):
     run_bot()
