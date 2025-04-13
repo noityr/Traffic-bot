@@ -3,7 +3,7 @@ import time, random
 import undetected_chromedriver as uc
 from selenium.webdriver.common.by import By
 
-URL = "https://your-website.com"  # TODO: Change this to your actual site
+URL = "https://www.chachi.fun/"  # TODO: Change this to your actual site
 
 def run_bot():
     options = uc.ChromeOptions()
