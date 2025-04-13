@@ -3,7 +3,7 @@ import time, random, requests
 import undetected_chromedriver as uc
 from selenium.webdriver.common.by import By
 
-URL = "https://your-website.com"  # TODO: Change this to your real website URL
+URL = "https://www.chachi.fun/"  # TODO: Change this to your real website URL
 
 PROXY_LIST_URL = "https://www.proxy-list.download/api/v1/get?type=https"
 
